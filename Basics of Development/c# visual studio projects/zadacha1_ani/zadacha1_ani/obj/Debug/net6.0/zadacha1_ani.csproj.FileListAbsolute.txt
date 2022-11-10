@@ -1,0 +1,15 @@
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\bin\Debug\net6.0\zadacha1_ani.exe
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\bin\Debug\net6.0\zadacha1_ani.deps.json
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\bin\Debug\net6.0\zadacha1_ani.runtimeconfig.json
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\bin\Debug\net6.0\zadacha1_ani.dll
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\bin\Debug\net6.0\zadacha1_ani.pdb
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\obj\Debug\net6.0\zadacha1_ani.csproj.AssemblyReference.cache
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\obj\Debug\net6.0\zadacha1_ani.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\obj\Debug\net6.0\zadacha1_ani.AssemblyInfoInputs.cache
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\obj\Debug\net6.0\zadacha1_ani.AssemblyInfo.cs
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\obj\Debug\net6.0\zadacha1_ani.csproj.CoreCompileInputs.cache
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\obj\Debug\net6.0\zadacha1_ani.dll
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\obj\Debug\net6.0\refint\zadacha1_ani.dll
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\obj\Debug\net6.0\zadacha1_ani.pdb
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\obj\Debug\net6.0\zadacha1_ani.genruntimeconfig.cache
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\zadacha1_ani\zadacha1_ani\obj\Debug\net6.0\ref\zadacha1_ani.dll

@@ -1,0 +1,15 @@
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\bin\Debug\net6.0\do_while.exe
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\bin\Debug\net6.0\do_while.deps.json
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\bin\Debug\net6.0\do_while.runtimeconfig.json
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\bin\Debug\net6.0\do_while.dll
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\bin\Debug\net6.0\do_while.pdb
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\obj\Debug\net6.0\do_while.csproj.AssemblyReference.cache
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\obj\Debug\net6.0\do_while.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\obj\Debug\net6.0\do_while.AssemblyInfoInputs.cache
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\obj\Debug\net6.0\do_while.AssemblyInfo.cs
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\obj\Debug\net6.0\do_while.csproj.CoreCompileInputs.cache
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\obj\Debug\net6.0\do_while.dll
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\obj\Debug\net6.0\refint\do_while.dll
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\obj\Debug\net6.0\do_while.pdb
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\obj\Debug\net6.0\do_while.genruntimeconfig.cache
+D:\CS-DEGREE\Basics of Development\c# visual studio projects\do_while\do_while\obj\Debug\net6.0\ref\do_while.dll
